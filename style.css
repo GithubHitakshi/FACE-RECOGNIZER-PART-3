@@ -1,0 +1,32 @@
+body{
+    background-size: cover;
+
+}
+
+hr{
+    background-color: rgba(0, 0, 0, 0.523);
+    height: 1px;
+    
+}
+
+#camera{
+    border: 2px dashed darkblue; 
+    width:350px;
+    height:300px;
+}
+
+#result{
+    border: 2px dashed darkblue; 
+    width:350px;
+    height:300px;
+}
+
+h1{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style: italic;
+    font-weight: 600;
+    color: blueviolet;
+}
+h4{
+    color:red;
+}
